@@ -348,10 +348,6 @@ def ReportAgent(scope: dict, base_df: pd.DataFrame):
     )
     return summary, bio
 
-from agents import (
-    df, set_df, parse_pdf_to_rows, query_agent, TrendWatcherAgent, ReportAgent,
-    kpis_for, ACC_TYPES, STATES
-)
 
 st.set_page_config(page_title="Mine Safety — Agentic AI", layout="wide")
 st.title("🛡️ Agentic AI for Indian Coal Mines")

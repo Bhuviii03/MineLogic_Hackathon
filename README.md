@@ -29,6 +29,9 @@ SafeMine extracts hidden intelligence from historical data to **prevent future a
 | Modular & Expandable | Can integrate compliance & IoT alerts |
 
 
+## Demo Video
+https://drive.google.com/file/d/1ErLktrp9SjTq1YGCY0Fp18xt2b8zWhwM/view?usp=sharing
+
 
 ---
 

@@ -28,6 +28,8 @@ SafeMine extracts hidden intelligence from historical data to **prevent future a
 | Visual Analytics | Heatmaps, Risk Priority Matrix, Age-Risk charts |
 | Modular & Expandable | Can integrate compliance & IoT alerts |
 
+
+
 ---
 
 ## Live App

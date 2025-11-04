@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+
+# Notebooks & logs
+*.ipynb_checkpoints/
+*.log
+
+# Data (keep only sample)
+data/*.xlsx
+data/*.csv
+!data/incidents_sample.csv
+
+# Streamlit cache
+.streamlit/

@@ -39,7 +39,7 @@ https://drive.google.com/file/d/1ErLktrp9SjTq1YGCY0Fp18xt2b8zWhwM/view?usp=shari
 
 > Add your Streamlit hosted link here once deployed  
 > Example:  
-> https://acknowledge-arg-athens-requesting.trycloudflare.com/
+> https://mineaccident.streamlit.app/
 
 ---
 
